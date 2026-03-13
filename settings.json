@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Kugdy-4TNj.aternos.me:61770",
+    "ip": "Kugdy-4TNj.aternos.me",
     "port": 61770,
     "version": "",
     "try-creative": false
